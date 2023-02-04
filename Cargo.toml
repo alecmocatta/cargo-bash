@@ -1,0 +1,17 @@
+[package]
+name = "cargo-bash"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+authors = ["Alec Mocatta <alec@mocatta.net>"]
+categories = ["development-tools"]
+keywords = ["bash", "sh", "exec", "call", "alias"]
+description = """
+Use bash in cargo aliases.
+"""
+repository = "https://github.com/alecmocatta/cargo-bash"
+homepage = "https://github.com/alecmocatta/cargo-bash"
+documentation = "https://docs.rs/cargo-bash"
+readme = "README.md"
+edition = "2021"
+
+[dependencies]
